@@ -12,7 +12,7 @@ Scenario: - Assuming you are working with savings accounts, you can test the loo
 
 Lastly, we have gray-box testing that combines both black-box and white-box testing to find defects in an application. In this case, the tester has limited knowledge of how the components being tested work. It ensures that the testing done reflects the users' and potential attackers' experience.
 
-Scenario:-Test a file upload feature where you know the maximum size limit, but you try and upload a file whose size exceeds the required size limit to see the outcome.
+**Scenario**:-Test a file upload feature where you know the maximum size limit, but you try and upload a file whose size exceeds the required size limit to see the outcome.
 
 
 
