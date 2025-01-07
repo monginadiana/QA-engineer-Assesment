@@ -10,9 +10,10 @@ venv can be replaced with your ideal environemnt name
 
 # Install pytest and requests
 
-**pip install pytest**
+** pip install pytest **
 
-**pip install requests**
+
+** pip install requests **
 
 ## To run the test run the command 
 
